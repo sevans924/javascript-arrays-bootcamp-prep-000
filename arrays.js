@@ -4,7 +4,7 @@ var array = []
 
 function addElementToBeginningOfArray(array, element){
 
-  ['element', ...array]
+  ['element', ...array];
   return array
 }
 
